@@ -1,0 +1,21 @@
+ticket_id,submitted_at,raw_text,category,sentiment,urgency,is_ambiguous,label_source,_ambiguous,_very_short
+DEMO-012,2025-02-20T09:00:00+00:00,Thanks for explaining the payment terms. Could you fix the incorrect invoice?,billing,positive,medium,True,author_synthetic_demo,True,False
+DEMO-013,2025-02-25T09:00:00+00:00,"The app crashes, but my main concern is a duplicate payment.",billing,negative,high,True,author_synthetic_demo,True,False
+DEMO-014,2025-03-01T09:00:00+00:00,I am not sure whether this charge is yours.,billing,neutral,medium,True,author_synthetic_demo,True,False
+DEMO-028,2025-05-04T09:00:00+00:00,The dashboard fails to render. A dark mode would also be nice.,technical,neutral,medium,True,author_synthetic_demo,True,False
+DEMO-029,2025-05-08T09:00:00+00:00,"Thanks for the great app, but the export button is broken.",technical,positive,medium,True,author_synthetic_demo,True,False
+DEMO-030,2025-05-13T09:00:00+00:00,"Maybe the meter is offline, or perhaps I chose the wrong site.",technical,neutral,medium,True,author_synthetic_demo,True,False
+DEMO-044,2025-07-16T09:00:00+00:00,I love the app. Please add an integration with Home Assistant.,feature_request,positive,low,True,author_synthetic_demo,True,False
+DEMO-045,2025-07-20T09:00:00+00:00,"Could you add an invoice preview feature? This is a suggestion, not a payment issue.",feature_request,neutral,low,True,author_synthetic_demo,True,False
+DEMO-046,2025-07-25T09:00:00+00:00,Maybe a simpler setup wizard would help; I am not reporting a failure.,feature_request,neutral,low,True,author_synthetic_demo,True,False
+DEMO-060,2025-09-26T09:00:00+00:00,Thanks for fixing the login issue; everything is working now.,praise,positive,low,True,author_synthetic_demo,True,False
+DEMO-061,2025-10-01T09:00:00+00:00,The new invoice screen is great; no help is needed.,praise,positive,low,True,author_synthetic_demo,True,False
+DEMO-062,2025-10-06T09:00:00+00:00,"I was unsure before, but now I love the monthly report.",praise,positive,low,True,author_synthetic_demo,True,False
+DEMO-077,2025-12-13T09:00:00+00:00,Hello.,other,neutral,low,True,author_synthetic_demo,True,True
+DEMO-081,2025-12-31T09:00:00+00:00,???,other,neutral,low,True,author_synthetic_demo,True,True
+DEMO-076,2025-12-08T09:00:00+00:00,Maybe I meant to contact another service. I am not sure.,other,neutral,low,True,author_synthetic_demo,True,False
+DEMO-010,2025-02-11T09:00:00+00:00,Can our annual subscription be paid monthly instead?,billing,neutral,medium,False,author_synthetic_demo,False,False
+DEMO-026,2025-04-25T09:00:00+00:00,Our operations team is blocked because the app is broken.,technical,neutral,high,False,author_synthetic_demo,False,False
+DEMO-042,2025-07-07T09:00:00+00:00,We would like role-based permissions for site managers.,feature_request,neutral,low,False,author_synthetic_demo,False,False
+DEMO-058,2025-09-17T09:00:00+00:00,The new navigation feels great.,praise,positive,low,False,author_synthetic_demo,False,False
+DEMO-078,2025-12-17T09:00:00+00:00,"Something about energy, perhaps.",other,neutral,low,True,author_synthetic_demo,True,False

@@ -1,0 +1,67 @@
+{
+  "mode": "demo",
+  "data_origin": "synthetic_demo",
+  "method": "offline-rules-v1",
+  "fingerprint": "a1087c8f946cd72cf44864dd53d4d5dea0579db1f0c50d47e1936e483ca74bfc",
+  "live_traces_manually_verified": false,
+  "trace_flush_error": "",
+  "exploration": {
+    "ticket_count": 81,
+    "date_min": "2025-01-01T09:00:00+00:00",
+    "date_max": "2025-12-31T09:00:00+00:00",
+    "min_chars": 3,
+    "max_chars": 84
+  },
+  "calibration": {
+    "n": 20,
+    "valid_predictions": 20,
+    "coverage": 1.0,
+    "category_accuracy": 0.8,
+    "category_correct": 16,
+    "sentiment_accuracy": 0.95,
+    "sentiment_correct": 19,
+    "urgency_accuracy": 0.75,
+    "urgency_correct": 15,
+    "category_above_80_percent": false
+  },
+  "consistency": {
+    "n": 10,
+    "agreement_rate_all_pairs": 1.0,
+    "valid_pairs": 10,
+    "failed_pairs": 0,
+    "high_n": 4,
+    "high_agreement": 1.0,
+    "low_n": 6,
+    "low_agreement": 1.0
+  },
+  "batch_successes": 81,
+  "batch_failures": 0,
+  "review_count": 15,
+  "bi_eligible_count": 66,
+  "category_counts_all_rows": {
+    "other": 22,
+    "billing": 17,
+    "technical": 15,
+    "feature_request": 14,
+    "praise": 13
+  },
+  "confidence_counts_all_rows": {
+    "high": 66,
+    "low": 15
+  },
+  "metering": {
+    "provider_call_attempts_this_output": 0,
+    "input_tokens_observed": 0,
+    "output_tokens_observed": 0,
+    "token_usage_complete": true,
+    "estimated_cost_usd": 0.0,
+    "scope": "batch records + 3 single-ticket tests + 20 consistency invocations; resumed batch records may include earlier calls; failed retry history may omit usage"
+  },
+  "limitations": [
+    "No OpenAI calls or LangSmith traces were made.",
+    "Demo labels are authored synthetic examples, not instructor ground truth.",
+    "Rule-based accuracy and repeatability do not establish LLM quality.",
+    "Verify LangSmith project inputs/outputs, usage, and cost manually after a live run.",
+    "Low confidence is a qualitative signal, not a calibrated error probability."
+  ]
+}

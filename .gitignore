@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Add instructor data and live traces only when permitted by the course.
+data/instructor/*.csv
+outputs/live/checkpoint.jsonl

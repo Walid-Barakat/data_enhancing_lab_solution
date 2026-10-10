@@ -1,0 +1,82 @@
+ticket_id,submitted_at,raw_text
+DEMO-001,2025-01-01T09:00:00+00:00,I've been charged twice this month.
+DEMO-002,2025-01-06T09:00:00+00:00,Please send a copy of my September invoice.
+DEMO-003,2025-01-10T09:00:00+00:00,I am frustrated that my refund has not arrived.
+DEMO-004,2025-01-15T09:00:00+00:00,Which payment methods do you accept?
+DEMO-005,2025-01-19T09:00:00+00:00,The subscription renewal price changed; can you explain it?
+DEMO-006,2025-01-24T09:00:00+00:00,My card was declined and my account is blocked today.
+DEMO-007,2025-01-28T09:00:00+00:00,The VAT number on our invoice is incorrect.
+DEMO-008,2025-02-02T09:00:00+00:00,I need the receipt for our energy-monitoring subscription.
+DEMO-009,2025-02-06T09:00:00+00:00,The double charge is unacceptable. Please correct it immediately.
+DEMO-010,2025-02-11T09:00:00+00:00,Can our annual subscription be paid monthly instead?
+DEMO-011,2025-02-16T09:00:00+00:00,The discount promised by sales is missing from the bill.
+DEMO-012,2025-02-20T09:00:00+00:00,Thanks for explaining the payment terms. Could you fix the incorrect invoice?
+DEMO-013,2025-02-25T09:00:00+00:00,"The app crashes, but my main concern is a duplicate payment."
+DEMO-014,2025-03-01T09:00:00+00:00,I am not sure whether this charge is yours.
+DEMO-015,2025-03-06T09:00:00+00:00,Could you explain this fee?
+DEMO-016,2025-03-10T09:00:00+00:00,Our payment deadline is today; please correct the invoice before then.
+DEMO-017,2025-03-15T09:00:00+00:00,The app crashes every time I open the meter dashboard. I am frustrated.
+DEMO-018,2025-03-19T09:00:00+00:00,I cannot login and need access urgently for a meeting.
+DEMO-019,2025-03-24T09:00:00+00:00,The energy meter is offline. Please help restore the connection.
+DEMO-020,2025-03-28T09:00:00+00:00,The CSV download fails with error 503.
+DEMO-021,2025-04-02T09:00:00+00:00,The dashboard is not loading on my tablet.
+DEMO-022,2025-04-07T09:00:00+00:00,The hourly usage chart is stuck on yesterday.
+DEMO-023,2025-04-11T09:00:00+00:00,Password reset emails are not arriving.
+DEMO-024,2025-04-16T09:00:00+00:00,The sensor readings are not syncing with our account.
+DEMO-025,2025-04-20T09:00:00+00:00,A security bug exposes another building on my dashboard; fix it immediately.
+DEMO-026,2025-04-25T09:00:00+00:00,Our operations team is blocked because the app is broken.
+DEMO-027,2025-04-29T09:00:00+00:00,The alert settings do not work after the update.
+DEMO-028,2025-05-04T09:00:00+00:00,The dashboard fails to render. A dark mode would also be nice.
+DEMO-029,2025-05-08T09:00:00+00:00,"Thanks for the great app, but the export button is broken."
+DEMO-030,2025-05-13T09:00:00+00:00,"Maybe the meter is offline, or perhaps I chose the wrong site."
+DEMO-031,2025-05-17T09:00:00+00:00,The browser shows a blank page after I sign in.
+DEMO-032,2025-05-22T09:00:00+00:00,The app keeps logging me out. This is annoying.
+DEMO-033,2025-05-27T09:00:00+00:00,Please add dark mode to the energy dashboard.
+DEMO-034,2025-05-31T09:00:00+00:00,Could you add an integration with our building management system?
+DEMO-035,2025-06-05T09:00:00+00:00,I would like weekly energy reports by email.
+DEMO-036,2025-06-09T09:00:00+00:00,Please add an option to compare two sites.
+DEMO-037,2025-06-14T09:00:00+00:00,I wish the chart could show carbon intensity alongside usage.
+DEMO-038,2025-06-18T09:00:00+00:00,Feature request: let us export data in parquet format.
+DEMO-039,2025-06-23T09:00:00+00:00,Could you add custom thresholds for high energy consumption?
+DEMO-040,2025-06-27T09:00:00+00:00,Please add support for time-of-use tariff comparisons.
+DEMO-041,2025-07-02T09:00:00+00:00,I suggest a dashboard widget for solar generation.
+DEMO-042,2025-07-07T09:00:00+00:00,We would like role-based permissions for site managers.
+DEMO-043,2025-07-11T09:00:00+00:00,Please add a way to annotate equipment maintenance on charts.
+DEMO-044,2025-07-16T09:00:00+00:00,I love the app. Please add an integration with Home Assistant.
+DEMO-045,2025-07-20T09:00:00+00:00,"Could you add an invoice preview feature? This is a suggestion, not a payment issue."
+DEMO-046,2025-07-25T09:00:00+00:00,Maybe a simpler setup wizard would help; I am not reporting a failure.
+DEMO-047,2025-07-29T09:00:00+00:00,I would like a forecast of next week’s building energy demand.
+DEMO-048,2025-08-03T09:00:00+00:00,Could you add a feature to group meters by floor?
+DEMO-049,2025-08-07T09:00:00+00:00,Thank you for the clear energy reports.
+DEMO-050,2025-08-12T09:00:00+00:00,I love the new dashboard design.
+DEMO-051,2025-08-17T09:00:00+00:00,The weekly insights are excellent.
+DEMO-052,2025-08-21T09:00:00+00:00,Great work on the meter comparison view.
+DEMO-053,2025-08-26T09:00:00+00:00,Your support team was wonderful.
+DEMO-054,2025-08-30T09:00:00+00:00,The onboarding guide is brilliant.
+DEMO-055,2025-09-04T09:00:00+00:00,Fantastic product; it helped us identify wasted energy.
+DEMO-056,2025-09-08T09:00:00+00:00,I am happy with the clarity of the charts.
+DEMO-057,2025-09-13T09:00:00+00:00,Thanks for the quick response yesterday.
+DEMO-058,2025-09-17T09:00:00+00:00,The new navigation feels great.
+DEMO-059,2025-09-22T09:00:00+00:00,Excellent documentation and a very helpful team.
+DEMO-060,2025-09-26T09:00:00+00:00,Thanks for fixing the login issue; everything is working now.
+DEMO-061,2025-10-01T09:00:00+00:00,The new invoice screen is great; no help is needed.
+DEMO-062,2025-10-06T09:00:00+00:00,"I was unsure before, but now I love the monthly report."
+DEMO-063,2025-10-10T09:00:00+00:00,Great job making energy consumption easier to understand.
+DEMO-064,2025-10-15T09:00:00+00:00,Thank you!
+DEMO-065,2025-10-19T09:00:00+00:00,What are your office hours?
+DEMO-066,2025-10-24T09:00:00+00:00,Where is your company based?
+DEMO-067,2025-10-28T09:00:00+00:00,Do you have a press contact?
+DEMO-068,2025-11-02T09:00:00+00:00,Can I speak to someone about a partnership?
+DEMO-069,2025-11-06T09:00:00+00:00,I sent this message to the wrong company.
+DEMO-070,2025-11-11T09:00:00+00:00,What languages does your documentation come in?
+DEMO-071,2025-11-15T09:00:00+00:00,How can I apply for a job at your company?
+DEMO-072,2025-11-20T09:00:00+00:00,Do you exhibit at the energy conference in Berlin?
+DEMO-073,2025-11-25T09:00:00+00:00,Can you point me to your accessibility statement?
+DEMO-074,2025-11-29T09:00:00+00:00,Where can I find your company registration number?
+DEMO-075,2025-12-04T09:00:00+00:00,This is a test message from our training workshop.
+DEMO-076,2025-12-08T09:00:00+00:00,Maybe I meant to contact another service. I am not sure.
+DEMO-077,2025-12-13T09:00:00+00:00,Hello.
+DEMO-078,2025-12-17T09:00:00+00:00,"Something about energy, perhaps."
+DEMO-079,2025-12-22T09:00:00+00:00,Could you explain what this service does?
+DEMO-080,2025-12-26T09:00:00+00:00,I found your business through a conference directory.
+DEMO-081,2025-12-31T09:00:00+00:00,???

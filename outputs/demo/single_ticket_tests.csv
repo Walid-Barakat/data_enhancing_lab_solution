@@ -1,0 +1,4 @@
+raw_text,category,sentiment,urgency,topic,confidence,extraction_status,error_type,api_calls,input_tokens,output_tokens,latency_seconds,estimated_cost_usd,trace_run_id,token_usage_complete
+I've been charged twice this month.,billing,negative,high,I've been charged twice this month.,high,success,,0,0,0,0.0,0.0,,True
+The dashboard fails to render. A dark mode would also be nice.,technical,neutral,medium,The dashboard fails to render.,low,success,,0,0,0,0.0,0.0,,True
+???,other,neutral,low,Ticket contains no interpretable request.,low,success,,0,0,0,0.0,0.0,,True

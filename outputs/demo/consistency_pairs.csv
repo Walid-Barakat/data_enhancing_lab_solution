@@ -1,0 +1,11 @@
+ticket_id,category_1,category_2,confidence_1,confidence_2,status_1,status_2,cohort,agreement,api_calls,input_tokens,output_tokens,estimated_cost_usd,token_usage_complete
+DEMO-012,billing,billing,low,low,success,success,low,True,0,0,0,0.0,True
+DEMO-010,billing,billing,high,high,success,success,high,True,0,0,0,0.0,True
+DEMO-028,technical,technical,low,low,success,success,low,True,0,0,0,0.0,True
+DEMO-026,technical,technical,high,high,success,success,high,True,0,0,0,0.0,True
+DEMO-044,feature_request,feature_request,low,low,success,success,low,True,0,0,0,0.0,True
+DEMO-042,feature_request,feature_request,high,high,success,success,high,True,0,0,0,0.0,True
+DEMO-060,technical,technical,low,low,success,success,low,True,0,0,0,0.0,True
+DEMO-058,praise,praise,high,high,success,success,high,True,0,0,0,0.0,True
+DEMO-077,other,other,low,low,success,success,low,True,0,0,0,0.0,True
+DEMO-081,other,other,low,low,success,success,low,True,0,0,0,0.0,True

@@ -1,0 +1,6 @@
+true_category,billing,technical,feature_request,praise,other,failure
+billing,4,0,0,0,0,0
+technical,0,4,0,0,0,0
+feature_request,1,1,2,0,0,0
+praise,1,1,0,2,0,0
+other,0,0,0,0,4,0

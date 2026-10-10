@@ -1,0 +1,195 @@
+{
+  "files": [
+    {
+      "path": ".env.example",
+      "sha256": "600413a1c7e248a512066542ab4120642879f69e64674d820c0d9b1bcbaf00d6",
+      "bytes": 385
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "0a07a4060e172b124191e656492f461583d8a0ad431e77dacf2a59973c3be004",
+      "bytes": 176
+    },
+    {
+      "path": "README.md",
+      "sha256": "1c2f985392b7f8cb1a878e56999c97e0fc9bb0282a1b4aba6dc140cab3082bfd",
+      "bytes": 10031
+    },
+    {
+      "path": "data/demo/support_tickets.csv",
+      "sha256": "5a783d9eb3f23def7d8e647649dec4c5bdcca1e0ef6ac1d3b46181a9f7bba1bf",
+      "bytes": 6874
+    },
+    {
+      "path": "data/demo/support_tickets_labeled.csv",
+      "sha256": "1ba16c3172fb99c6d19f682a5df863b70e135da64a6d7862ceec51e07f3260b6",
+      "bytes": 4880
+    },
+    {
+      "path": "data/instructor/README.md",
+      "sha256": "7bca23ffa9231348ecc7cb76d8bb9bae2e1e7974317763fb5713c504b860419f",
+      "bytes": 292
+    },
+    {
+      "path": "data_enhancing_demo_report.html",
+      "sha256": "4425ca9bd0da237ca691ac259bb9637bbae92dbc66e77c9c5b80acee715d2b8d",
+      "bytes": 28281
+    },
+    {
+      "path": "data_enhancing_solution_report.pdf",
+      "sha256": "024102672a5427ac2439f384683ec231f349e87ebd152646be4506b947be894d",
+      "bytes": 158791
+    },
+    {
+      "path": "docs/data_dictionary.md",
+      "sha256": "342595edcb3ebbdd353f58c2623fbf2814781c4678211b00253c7823ab402f86",
+      "bytes": 2693
+    },
+    {
+      "path": "docs/live_validation.md",
+      "sha256": "ba7bdf608f0068a41d182941b95a0a13bae2f48b7261c032d973677124d2fdf8",
+      "bytes": 1067
+    },
+    {
+      "path": "docs/solution_notes.md",
+      "sha256": "fd494ee937612be4614d472a5ef1025b336c1e5905abf4fe55e397818c3e4d21",
+      "bytes": 6777
+    },
+    {
+      "path": "docs/submission_checklist.md",
+      "sha256": "0367c307fc0d67671e8914e09d498cee7faab023519aa49a6c7293e36d475e4a",
+      "bytes": 2451
+    },
+    {
+      "path": "docs/test_results.txt",
+      "sha256": "9910ae8e166617dd8310c0375bfcd10bd1812812519ad5d45637510d1bb3216a",
+      "bytes": 2220
+    },
+    {
+      "path": "docs/verification.md",
+      "sha256": "d929cfb33f6d05d8ce923e4b56cc3f065d0bedf1484166f2d92470591c3d34cc",
+      "bytes": 1568
+    },
+    {
+      "path": "figures/demo_category_counts.png",
+      "sha256": "290cc4687d74bc20d15d393e9b40a068ce55c2769a6184425fc47151ccdce64d",
+      "bytes": 42892
+    },
+    {
+      "path": "figures/demo_confusion_matrix.png",
+      "sha256": "3eadf871024fce0e307c2480c61cbb4234cbe264d297638005b3f540b4ce15ea",
+      "bytes": 56718
+    },
+    {
+      "path": "lab_summary.md",
+      "sha256": "9cf179c47261d8617514f6155a7cfc89bc7cd023095480c5b53e6c8af6c4a394",
+      "bytes": 449
+    },
+    {
+      "path": "notebooks/data_enhancing_solution.ipynb",
+      "sha256": "812f017a904791293b7f836e15caaabfd7ae47fd2c35a80cf6ca341263518518",
+      "bytes": 53112
+    },
+    {
+      "path": "outputs/demo/calibration_comparisons.csv",
+      "sha256": "0139f13d1e2d27452062f72b0ddb999a7fd24ca50d0dd4dbf984ec1e6fecb175",
+      "bytes": 1367
+    },
+    {
+      "path": "outputs/demo/calibration_set.csv",
+      "sha256": "6b959552466b196d60371c89ef4e5bbac3b31a7ecd48c593fc6af06892f7f130",
+      "bytes": 3099
+    },
+    {
+      "path": "outputs/demo/category_confusion_matrix.csv",
+      "sha256": "81e31c24fb3978c35c0b67171b4ba66456f02900d64dc75ec0b415e6eaf49653",
+      "bytes": 176
+    },
+    {
+      "path": "outputs/demo/checkpoint.jsonl",
+      "sha256": "930558051f54e1f2ad9ca2ab02d6b08b65d5b2bad5cb6a706ff39b87d779a52c",
+      "bytes": 61990
+    },
+    {
+      "path": "outputs/demo/consistency_pairs.csv",
+      "sha256": "834f0bdf154dae12a768b901d9e781c63ac9fcd091fdbdbf880da624c2105988",
+      "bytes": 946
+    },
+    {
+      "path": "outputs/demo/lab_summary.md",
+      "sha256": "9cf179c47261d8617514f6155a7cfc89bc7cd023095480c5b53e6c8af6c4a394",
+      "bytes": 449
+    },
+    {
+      "path": "outputs/demo/metrics.json",
+      "sha256": "f6018939f382b445b5a5e7f556ba103b288c3d057a70ecb7592ee9f10338bb3e",
+      "bytes": 2001
+    },
+    {
+      "path": "outputs/demo/single_ticket_tests.csv",
+      "sha256": "cd7f6ea0d4cd5edc27b420ee4c40dd7d0b454a55fe1b615e044eced01b241a75",
+      "bytes": 565
+    },
+    {
+      "path": "outputs/demo/tickets_bi_ready.csv",
+      "sha256": "809f5f62a904fdad85dacbf8a294e3ee3860705d6482fa649ffa5e3cc97887d8",
+      "bytes": 15901
+    },
+    {
+      "path": "outputs/demo/tickets_review_queue.csv",
+      "sha256": "9731f0c363833703b20d735a22935681ec9b1324730a80d8625a8366dd7ef983",
+      "bytes": 3974
+    },
+    {
+      "path": "outputs/demo/tickets_structured.csv",
+      "sha256": "0a219c215fb94494592adc3d6f69f4de2090290518d4292dd49404b70bd82fbf",
+      "bytes": 19600
+    },
+    {
+      "path": "prompts/extraction_prompt.txt",
+      "sha256": "8764b00b3a38b666a5350eac624a7e3f7c9aa6b29ca4f27e21ef6c8aa7fc749e",
+      "bytes": 2067
+    },
+    {
+      "path": "prompts/ticket_schema.json",
+      "sha256": "476df58c0a2fdabff91c8672fc6be66e6f66d02cb61bce91994634709e1b641c",
+      "bytes": 753
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "4c8faf057d3a2998da027cc7650a06bb469b292afb1152c79dd860eb9fbe9f4a",
+      "bytes": 138
+    },
+    {
+      "path": "src/__init__.py",
+      "sha256": "330bb3b3fa26852393d04790bbbafc318a6c711ce9a4e56398674b5e5b20fc54",
+      "bytes": 41
+    },
+    {
+      "path": "src/make_demo.py",
+      "sha256": "2374356306f778cbcc137e6a06bf657ca96dcbce29cfd3ebbe4baa4b79c69b5c",
+      "bytes": 6958
+    },
+    {
+      "path": "src/pipeline.py",
+      "sha256": "576dafd23b59d096a600009b849abaf0ce60c9fe0c76629c3160ece06831428d",
+      "bytes": 23543
+    },
+    {
+      "path": "src/run_lab.py",
+      "sha256": "40c46b711b483bf8f215cb6f4c7cdb19293640de087392dd183f486ff48baba3",
+      "bytes": 7150
+    },
+    {
+      "path": "tests/test_pipeline.py",
+      "sha256": "bc841796c85092bcde4b86ca0b9aeedc2a45bcf9baf7841b5e09dd5e08abeb2b",
+      "bytes": 9655
+    },
+    {
+      "path": "tickets_structured.csv",
+      "sha256": "0a219c215fb94494592adc3d6f69f4de2090290518d4292dd49404b70bd82fbf",
+      "bytes": 19600
+    }
+  ],
+  "manifest_excludes_itself": true
+}

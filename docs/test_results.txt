@@ -1,0 +1,23 @@
+test_batch_failure_does_not_stop (test_pipeline.PipelineTests.test_batch_failure_does_not_stop) ... ok
+test_bounded_retry_and_nontransient_error (test_pipeline.PipelineTests.test_bounded_retry_and_nontransient_error) ... ok
+test_calibration_allows_three_in_one_category (test_pipeline.PipelineTests.test_calibration_allows_three_in_one_category) ... ok
+test_calibration_has_twenty_and_all_categories (test_pipeline.PipelineTests.test_calibration_has_twenty_and_all_categories) ... ok
+test_export_reconciliation (test_pipeline.PipelineTests.test_export_reconciliation) ... ok
+test_failed_pairs_never_count_as_agreement (test_pipeline.PipelineTests.test_failed_pairs_never_count_as_agreement) ... ok
+test_failed_predictions_count_as_incorrect (test_pipeline.PipelineTests.test_failed_predictions_count_as_incorrect) ... ok
+test_input_ids_dates_and_blank_text (test_pipeline.PipelineTests.test_input_ids_dates_and_blank_text) ... /workspace/scratch/2e01f1e2fe10/output/lab_data_enhancing_walid_barakat/src/pipeline.py:250: UserWarning: Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+  dates = pd.to_datetime(df.submitted_at, utc=True, errors='raise')
+ok
+test_label_mismatch_rejected (test_pipeline.PipelineTests.test_label_mismatch_rejected) ... ok
+test_openai_contract_without_network (test_pipeline.PipelineTests.test_openai_contract_without_network) ... ok
+test_resume_reuses_successes_and_rejects_changed_inputs (test_pipeline.PipelineTests.test_resume_reuses_successes_and_rejects_changed_inputs) ... ok
+test_retry_failed_retries_only_failure (test_pipeline.PipelineTests.test_retry_failed_retries_only_failure) ... ok
+test_schema_errors (test_pipeline.PipelineTests.test_schema_errors) ... ok
+test_strict_threshold (test_pipeline.PipelineTests.test_strict_threshold) ... ok
+test_two_independent_consistency_calls (test_pipeline.PipelineTests.test_two_independent_consistency_calls) ... ok
+test_unknown_and_duplicate_charge (test_pipeline.PipelineTests.test_unknown_and_duplicate_charge) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.095s
+
+OK
